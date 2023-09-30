@@ -1,40 +1,39 @@
-# Why Linux? 
-Linux is powerful and widely-used operating system that has become the backbone of the modern computing world. 
+# Differences between Linux and Windows
 
-Why Linux is favored by developers, system administrators, and enthusiasis alike:
+### 1. Operating system
+* Linux is an Open source operating system developed by a global community of volunteers. Its highly customizable and availbale in various distributions.
 
-### 1. Open Source Philosophy
- Linus is buit on the principles of open source software, which means its source code is freely available for anyone to view, modify, and distribute.
+* Windows is a proprietary operating system developed by Microsoft. It has a standardized interface across versions.
 
-### 2. Stability and Reliability
-It can run for extended periods without needing a reboot, making it ideal for servers and critical systems.
+### 2. Cost
+* Linus is typically free to use and distribute. Many Linux distributions are available at no cost.
 
-### 3. Security
- Linux is inherently secure. Its multi-user and permission based architecture ensure that one user cannot interfere with or damage another users data or processes without proper authorization.
+* Windows often requires purchasing a license, which can be a significant expense.
 
-### 4. Customizability
-Linux offers incredible flexibility and customization. Users can choose from a wide range of desktop environments, package managers, and software options to tailor their Linux experience. to their specific needs.
+### 3. Software Compatibility
+* Linux is known for its vast software repository, but not all windows applications are compatible. However, alternatives and workarounds often exist.
 
-### 5. Community support
-The Linux community is vibrant and helpful. 
+* Windows has extensive software support, including many popular commercial applications.
 
-### 6. Cost Efficiency
-The Linux is cost effective, as it is free to use and does not require expensive licensing fees.
+### 4. Command Line
+* Linux emphasizes (Focus) the use of the command line interface (CLI) for system administration and scripting.
 
-### 7. Vast Software Ecosystem
-Linux boats a vast repository of software packages and libraries, accessible through package managers. This will help to provide tools for development, productivity, gaming and more..
+* Windows offers a CLI (command promt) but is generally more GUI focused.
 
-# Linux Architecture
-Linux is built on a few key concepts
+### 5.Customization
+* Linux allows deep customization of the Operating system, including the ability to modify the kernel.
 
-### 1. Kernel
-It is the heart of Linux. It's the part of the oeprating system that communicates directly with our computer's hardware. It manages resources, such a memory and CPU, and ensures different software programs can run without interfering with each other.
+* Windows provides customization options but within the boundaries set by Microsoft.
 
-### 2. Shell
-The shell is like the interface between you(user) and kernel. It takes our commands and communicates them to the kernel, which then carries out the requested actions. 
+### 6. Security
+* Linux is known for its robust security features, including user permissions and limited malware(harm) vulnerability(weakness).
 
-### 3. File System
-Linux uses a hierarchical file system, similar to how you organize files in folders on your computer. Everything in Linux, including hardware devices, is represented as files or directories
+* Windows has made significant security improvements but is historically more susceptible to viruses and malware (easily affected).
 
-### 4. Processes
-Linux is a multitasking operating system. It can run multiple processes (programs) simultaneously, managing their execution and resource allocation efficiently.
+### 7. Licensing
+* Linux is governed by various open source licenses, promoting collaboration and sharing.
+
+* Windows uses proprietary licensing, restricting the modification and redistribution of its code.
+
+### 8. Community and Support
+* Linux benefits from a large and active community that provides support, documentation, and troubleshooting assistance. Comparitively high from Windows.
